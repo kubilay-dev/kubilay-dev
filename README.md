@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **C++, Game-Hooking and Cheating.**
 
-- 📫 How to reach me **Discord: uhhkubilay#0869**
+- 📫 How to reach me **Discord: uhhkubilay#1019**
 
 
 <h3 align="left">Languages and Tools:</h3>
