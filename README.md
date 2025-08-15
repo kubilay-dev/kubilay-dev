@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">A passionate **full-stack developer** from Germany.</h3>
+<h3 align="center">A passionate full-stack developer from Germany.</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I'm kubilay from Germany!<br><br>- 🔭 I’m working as a **Information and Systems Electronics Technician**<br>- 📚 I'm currently learning **ATMega Programming with C**<br>- 💫 I’m currently working on developing an embedded IoT-based monitoring system that collects sensor data, processes it in real time, and transmits it securely to a central server for analysis and visualization.</p>
+<p align="center">I'm kubilay from Germany!<br><br>- 🔭 I’m working as a Information and Systems Electronics Technician<br>- 📚 I'm currently learning ATMega Programming with C<br>- 💫 I’m currently working on developing an embedded IoT-based monitoring system that collects sensor data, processes it in real time, and transmits it securely to a central server for analysis and visualization.</p>
 
 ###
 
